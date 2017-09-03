@@ -18,6 +18,12 @@ Websites:
  
  Apps for Terminal cmd/Tricks ~
  
+ Gif - gifs in your terminal. because why not?
+ https://github.com/levthedev/gif
+ 
+ Desk - A lightweight workspace manager for the shell
+ https://github.com/jamesob/desk
+ 
  The Fuck - corrects your previous console command
  https://github.com/nvbn/thefuck
  
@@ -31,6 +37,10 @@ Websites:
  
  "Sacramento is a game about capturing fleeting memories before they fade."
  http://warpdoor.com/tag/sacramento/
+ 
+ Android app ~
+ Photo Scan - Digitalize your old photos
+https://www.google.com/photos/scan/
  
 
  
